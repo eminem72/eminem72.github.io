@@ -7,7 +7,7 @@
 
 [lesson7](https://eminem72.github.io/lesson7/index.html "lesson7")-верска на чистом html and css 
 
-[lesson9](https://eminem72.github.io/lesson7/index.html "lesson9")-верска на boothstrap
+[lesson9](https://eminem72.github.io/lesson9/index.html "lesson9")-верска на boothstrap
 
 [lesson12](https://eminem72.github.io/lesson12/index.html "lesson12")-работа с репозитроием от github 
 
