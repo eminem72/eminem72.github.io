@@ -1,6 +1,5 @@
 # Бронников Кирилл
 мои домашние задания
-****************
 
 
 [lesson5](https://codepen.io/eminem72/pen/JrJxdW "lesson5")-книга на html и css
